@@ -14,8 +14,8 @@ public class Programa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-       // int variable;
-       // variable = 3;
+        int variable;
+       variable = 3;
         
         
     }
